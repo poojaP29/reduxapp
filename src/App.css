@@ -1,0 +1,78 @@
+.heading{
+  display:flex;
+  padding:30px;
+  background-color: #00ffff;
+
+  
+}
+.clickButtons{
+  display: flex;
+  margin-left: 20px;
+}
+.btn1{
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #9ac49a;
+}
+.btn2{
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #9ac49a;
+
+}
+.btn3{
+  margin-right: 10px;
+  margin-left: 10px;
+  background-color: #9ac49a;
+
+}
+.content{
+  display: flex;
+}
+.rOne{
+  width:33%;
+  background-color:#c75e5e;
+  height: 100em;
+}
+.rTwo{
+  width:33%;
+  background-color: #b6a0a0;
+  height: 100em;
+}
+.rThree{
+  width:33%;
+  background-color: #abbdba;
+  height: 100em;
+}
+.add{
+  padding:10px 20px 10px 20px;
+  background-color: #b6a0a0;
+  font-size: 15px;
+  
+}
+select{
+  font-size: 15px;
+}
+label{
+  font-size: 18px;
+}
+.overlaying--effect{
+  background-color: darkslategrey;
+  height: max-content;
+
+}
+.transparency{
+  position: absolute;
+  top: 0vh;
+  left: 35vw;
+  z-index:1;
+}
+.float{
+  position: fixed;
+  width: 100%; 
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0,0,0,0.5);
+  position: fixed;
+}

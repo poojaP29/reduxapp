@@ -1,0 +1,48 @@
+{
+    "shop": [
+        {
+            "dept": "none",
+            "prize": 0
+        },
+        {
+            "dept": "chudithar",
+            "prize": 500
+        },
+        {
+            "dept": "jeans",
+            "prize": 1000
+        },
+        {
+            "dept": "top",
+            "prize": 300
+        },
+        {
+            "dept": "sarees",
+            "prize": 600
+        },
+        {
+            "dept": "shirts",
+            "prize": 300
+        },
+        {
+            "dept": "pants",
+            "prize": 800
+        },
+        {
+            "dept": "dhotis",
+            "prize": 600
+        },
+        {
+            "dept": "t-shirts",
+            "prize": 200
+        },
+        {
+            "dept": "leggings",
+            "prize": 500
+        },
+        {
+            "dept": "Hand-kerchief",
+            "prize": 50
+        }
+    ]
+}
